@@ -1,0 +1,12 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+        "answer": "New Delhi"
+    },
+    {
+        "question": "Which language is used to create this quiz?",
+        "options": ["Java", "Python", "C++", "HTML"],
+        "answer": "Python"
+    }
+]
